@@ -1,5 +1,5 @@
 # 👋 GitHub Repository 👨‍💻
-WELCOME sandhya 
+WELCOME sandhya Aryal
 
 Welcome to my GitHub space! Here's where the code magic happens! ✨
 
